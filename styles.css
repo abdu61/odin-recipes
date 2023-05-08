@@ -1,0 +1,64 @@
+h1{
+    font-size: 34px;
+    text-align: center;
+}
+
+h2{
+    font-size: 28px;
+}
+
+h1, h2{
+    font-weight: 800;
+}
+
+p, li{
+    font-size: 20px;
+}
+
+body{
+    background-color: rgb(227, 255, 249);
+    color: black;
+    font-family: Helvetica, sans-serif;
+}
+
+.items{
+    font-weight: 700;
+    font-size: 24px;
+    color: black;
+}
+
+img{
+    display: block;
+    width: 40%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.box{
+    max-width: 800px;
+    width: 70%;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    padding: 10%;
+    border-radius: 12px;
+}
+
+.back{
+    color: rgb(255, 118, 148);
+    
+}
+
+.backbox{
+    text-align: center;
+    font-size: 24px;
+}
+
+
+
